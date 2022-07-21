@@ -1,12 +1,21 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Dr. Yash Raj Shrestha"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+I study algorithms (esp. algorithms for NP-hard problems) and organisations (esp. new forms of organisations such as online communities). I am especially interested in exploring and understanding how computer science and organization science can learn from each other in terms of concepts, methods and theories. 
+
+I was born and raised in the eastern hills of Nepal. I have been a visiting scholar at Laboratory of Innovation Science, Harvard University (USA) and The Institute of Mathematical Sciences (IMSc, India). Prior to starting my PhD, from 2010-2014, I held a position as research associate at the Cluster of Excellence ([MMCI] (https://www.mmci.uni-saarland.de/), Germany), which comprises of [Saarland University](https://www.uni-saarland.de/en/home.html), [the Max Planck Institute of Informatics] ( https://www.mpi-inf.mpg.de/home), the German Research Center for Artificial Intelligence (DFKIcall_made, Germany), and the Max Planck Institute for Software Systems (MPI-SWScall_made).  There, my research was focussed on Computational Social Choice and Theoretical Computer Science. In 2009-​2010, I worked as a software engineer at Samsungcall_made.  
+
+My research and education has been supported through scholarships from several institutions including the Government of India (EdCILcall_made), the German Research Foundation (DFGcall_made) and the Swiss National Science Foundation (SNSFcall_made).
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
