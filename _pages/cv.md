@@ -15,12 +15,11 @@ redirect_from:
 
 
 * Doctorate in Sciences (Dr. sc. ETH), ETH Zurich \\
-Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities** \\
-Committee:Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
+Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities** 
+Committee:nProf. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
 
 * MSc in Computer Science, Saarland University, Germany \\
-
-Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
+Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** 
 Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
 * BTech in Electronics and Communication Engineering, National Institute of Technology, Durgapur
@@ -74,11 +73,11 @@ Recieved Grants
 
 **PhD Students**
 
-  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 *@ETH Zurich*)\\
+  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich*)
 
-  2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing *@ETH Zurich*)\\
+  2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich*)
 
-  3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  *@ETH Zurich*)\\
+  3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich*)
 
 ** Master Students @ETH Zurich**
 
