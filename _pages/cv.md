@@ -14,16 +14,29 @@ redirect_from:
 ======
 
 
-* Doctorate in Sciences (Dr. sc. ETH), ETH Zurich \\
+* Doctor of Sciences (Dr. sc. ETH), ETH Z&uuml;rich \
 Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities**\\
-Committee:Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
+Committee: Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
 
 * MSc in Computer Science, Saarland University, Germany \\
-Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
+Dissertation: **Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
 Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
 * BTech in Electronics and Communication Engineering, National Institute of Technology, Durgapur
 
+
+Academic Experience
+======
+* 2019 - 2022       Swiss Federal Institute of Technology (ETH), Z&uuml;rich, Switzerland \
+**Senior Lecturer (Oberassistent)**\
+Chair of Strategic Management & Innovation, Department of Management, Technology and Economics (MTEC)
+
+* 2014- 2019        Swiss Federal Institute of Technology (ETH), Z&uuml;rich, Switzerland;
+**Research and Teaching Associate**\ 
+Chair of Strategic Management & Innovation, Department of Management, Technology and Economics (MTEC)\
+
+* 2012 – 2014       Multimodal Computing and Interaction (MMCI), Saarbr&uuml;cken, Germany\
+**Research and Teaching Associate** 
 
 
 Recieved Grants
