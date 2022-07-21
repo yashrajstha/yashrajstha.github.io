@@ -11,21 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+* PhD in Data Science and Strategy, ETH Zurich
+Dissertation: Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities
+Committee: Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-​Menahem, Prof. Dr. Stefano Brusoni (chair)
+
+* MSc in Computer Science, Saarland Universitycall_made, Germany
+Dissertation: Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs
+Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel 
+
+* BTech in Electronics and Communication Engineering, National Institute of Technologycall_made, Durgapur
+
+
+Professional Service
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ad-hoc Reviewer (Journals)
+  * Strategic Management Journal
+  * Information Systems Research
+  * Organization Science
+  * California Management Review
+  * Research Policy
+  * Annals of the New York Academy of Sciences
+  * Health Policy and Technology
+  * Journal of Experimental Criminology
+  * Journal of Combinatorial Optimization
+  * Technovation
+  * Innovation: Organization and Management 
+  * The International Journal of Human Resource Management
+  * Journal of Experimental & Theoretical Artificial Intelligence
+  * Information Processing and Management
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ad-hoc Reviewer (Conferences and Proceedings)
+  * International Conference on Information Systems (ICIS 2016- )
+  * Latin American Theoretical INformatics Symposium (LATIN 2018- ) 
+  * International Symposium on Parameterized and Exact Computation (IPEC 2016- ) 
+  * International Joint Conference on Artificial Intelligence (IJCAI 2018- )
+  * European Conference on Artificial Intelligence (ECAI 2018- 
+  * Computational Social Choice (COMSOC 2018- )
+  * Strategic Management Society Conferences (SMS 2020-)
   
 Skills
 ======
