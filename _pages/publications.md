@@ -10,21 +10,21 @@ author_profile: true
 
 **Publications (Management)**
 
-8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) Bringing artificial intelligence to business management. Nature Machine Intelligence 4, 611–613 [paper](https://doi.org/10.1038/s42256-022-00512-5)
+8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) **Bringing artificial intelligence to business management.** *Nature Machine Intelligence* 4, 611–613 [paper](https://doi.org/10.1038/s42256-022-00512-5)
 
-7\. Arrieta, J. P., & Shrestha, Y. R. (2022). On the strategic value of equifinal choice. Journal of Organization Design, 1-9. [paper](https://link.springer.com/article/10.1007/s41469-022-00112-y)
+7\. Arrieta, J. P., & Shrestha, Y. R. (2022). **On the strategic value of equifinal choice.** *Journal of Organization Design*, 1-9. [paper](https://link.springer.com/article/10.1007/s41469-022-00112-y)
 
-6\. von Krogh, G., Ben-Menahem, S. & Shrestha, Y. R. (2021) Artificial Intelligence in Strategizing: Prospects and Challenges, In I. Duhaime, M. Hitt & M. Lyles (Eds.), Strategic Management: State of the Field and Its Future, Cambridge University Press  [paper](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
+6\. von Krogh, G., Ben-Menahem, S. & Shrestha, Y. R. (2021) **Artificial Intelligence in Strategizing: Prospects and Challenges**, In I. Duhaime, M. Hitt & M. Lyles (Eds.), *Strategic Management: State of the Field and Its Future,* Cambridge University Press  [paper](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
 
-5\. Shrestha, Y. R., Krishna, V. and von Krogh, G., (2021) Augmenting Organizational Decision-Making with Deep Learning Algorithms: Principles, Promises, and Challenges. Journal of Business Research, 123, 588- 603 [paper](https://www.sciencedirect.com/science/article/pii/S0148296320306512)
+5\. Shrestha, Y. R., Krishna, V. and von Krogh, G., (2021) **Augmenting Organizational Decision-Making with Deep Learning Algorithms: Principles, Promises, and Challenges.** *Journal of Business Research*, 123, 588- 603 [paper](https://www.sciencedirect.com/science/article/pii/S0148296320306512)
 
-4\. Tinguely, P., Shrestha, Y. R. and von Krogh, G. (2020) How Does Your Labor Force React to COVID-19? Employing Social Media Analytics for Preemptive Decision Making. California Management Review Insights [paper](https://cmr.berkeley.edu/2020/08/social-media-analytics/)
+4\. Tinguely, P., Shrestha, Y. R. and von Krogh, G. (2020) **How Does Your Labor Force React to COVID-19? Employing Social Media Analytics for Preemptive Decision Making.** *California Management Review* Insights [paper](https://cmr.berkeley.edu/2020/08/social-media-analytics/)
 
-3\. Shrestha, Y. R., He, V. F., Puranam, P. and von Krogh, G., (2021) Algorithm Supported Induction for Building Theory: How Can We Use Prediction Models to Theorize? Organization Science 32 (3) 856-880 [paper](https://www.researchgate.net/publication/341407732_Algorithm_Supported_Induction_for_Building_Theory_How_Can_We_Use_Prediction_Models_to_Theorize)
+3\. Shrestha, Y. R., He, V. F., Puranam, P. and von Krogh, G., (2021) **Algorithm Supported Induction for Building Theory: How Can We Use Prediction Models to Theorize?** *Organization Science* 32 (3) 856-880 [paper](https://www.researchgate.net/publication/341407732_Algorithm_Supported_Induction_for_Building_Theory_How_Can_We_Use_Prediction_Models_to_Theorize)
 
-2\.  He. F., Puranam P., Shrestha Y. R., & von Krogh, G. (2020) Resolving governance disputes in communities: A study of license decisions in OSS projects. Strategic Management Journal, 41(10), 1837–1868. [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/smj.3181)
+2\.  He. F., Puranam P., Shrestha Y. R., & von Krogh, G. (2020) **Resolving governance disputes in communities: A study of license decisions in OSS projects.** *Strategic Management Journal*, 41(10), 1837–1868. [paper](https://onlinelibrary.wiley.com/doi/full/10.1002/smj.3181)
 
-1\. Shrestha, Y. R., Ben-Menahem, S., & von Krogh, G (2019). Organizational Decision-Making Structures in the Age of Artificial Intelligence. California Management Review. [paper](https://drive.google.com/file/d/1KtuZg7c-aC8HnYb1kOpg23bCKiwl1PYn/view)
+1\. Shrestha, Y. R., Ben-Menahem, S., & von Krogh, G (2019). **Organizational Decision-Making Structures in the Age of Artificial Intelligence.** *California Management Review.* [paper](https://drive.google.com/file/d/1KtuZg7c-aC8HnYb1kOpg23bCKiwl1PYn/view)
 
 
 ======
@@ -44,9 +44,9 @@ Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj S
 
 16\. Keidar, D., Zhong, M., Zhang, C., Shrestha, Y. R., & Paudel, B. (2021). Towards Automatic Bias Detection in Knowledge Graphs. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP 2021). Nov 7--11, 2021 [paper](https://aclanthology.org/2021.findings-emnlp.321/) [video](https://underline.io/lecture/38292-towards-automatic-bias-detection-in-knowledge-graphs)
 
-15\. Arduini, M., Noci, L., Pirovano, F., Zhang, C., Shrestha, Y. R., & Paudel, B. (2020). Adversarial learning for debiasing knowledge graph embeddings. In MLG 2020: 16th International Workshop on Miningand Learning with Graphs - A Workshop at the KDD Conference, August 24,2020, San Diego, CA.ACM, New York, NY, USA, 7 pages [paper](http://www.mlgworkshop.org/2020/papers/MLG2020_paper_39.pdf)[video](https://www.youtube.com/watch?v=a5fFOKc5os8)
+15\. Arduini, M., Noci, L., Pirovano, F., Zhang, C., Shrestha, Y. R., & Paudel, B. (2020). Adversarial learning for debiasing knowledge graph embeddings. In MLG 2020: 16th International Workshop on Miningand Learning with Graphs - A Workshop at the KDD Conference, August 24,2020, San Diego, CA.ACM, New York, NY, USA, 7 pages [paper](http://www.mlgworkshop.org/2020/papers/MLG2020_paper_39.pdf) [video](https://www.youtube.com/watch?v=a5fFOKc5os8)
 
-14\. Leopold F., Shrestha, Y. R. & Paudel, B. (2020). A Deep Learning Pipeline for Patient Diagnosis Prediction Using Electronic Health Records. In BioKDD 2020: 19th International Workshop on Data Mining in Bioinformatics, August 24, 2020, San Diego, CA.ACM, New York, NY, USA [paper](https://www.researchgate.net/publication/342338696_A_Deep_Learning_Pipeline_for_Patient_Diagnosis_Prediction_Using_Electronic_Health_Records)[video](https://www.youtube.com/watch?v=DcNcrAOZ-wM&list=PLF7zSWyxw2NbPcHIw-eULAtSfCc02WDa8)
+14\. Leopold F., Shrestha, Y. R. & Paudel, B. (2020). A Deep Learning Pipeline for Patient Diagnosis Prediction Using Electronic Health Records. In BioKDD 2020: 19th International Workshop on Data Mining in Bioinformatics, August 24, 2020, San Diego, CA.ACM, New York, NY, USA [paper](https://www.researchgate.net/publication/342338696_A_Deep_Learning_Pipeline_for_Patient_Diagnosis_Prediction_Using_Electronic_Health_Records) [video](https://www.youtube.com/watch?v=DcNcrAOZ-wM&list=PLF7zSWyxw2NbPcHIw-eULAtSfCc02WDa8)
 
 13\. Shrestha, Y. R., & Yang, Y. (2019). Fairness in Algorithmic Decision-Making: Applications in Multi-Winner Voting, Machine Learning, and Recommender Systems. Algorithms, 12(9), 199. [paper](https://www.mdpi.com/1999-4893/12/9/199)
 
