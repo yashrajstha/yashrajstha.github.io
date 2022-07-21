@@ -39,6 +39,14 @@ Chair of Strategic Management & Innovation, Department of Management, Technology
 **Research and Teaching Associate** 
 
 
+Profesional Experience
+======
+* 2020 - present    [Strategy and Artificial Intelligence Lab](https://sailab.ethz.ch/), Z&uuml;rich, Switzerland \
+**Assistant Director**
+
+* 2010- 2011        Samsung R&D, India\
+**Software Engineer**
+
 Recieved Grants
 ======
 * Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
