@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: yashrajstha.github.io/publications/
+permalink: /publications/
 author_profile: true
 ---
 
