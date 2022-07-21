@@ -13,13 +13,13 @@ Education
 
 ======
 
-* PhD in Data Science and Strategy, ETH Zurich
-Dissertation: Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities
-Committee: Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-​Menahem, Prof. Dr. Stefano Brusoni (chair)
+* PhD in Data Science and Strategy, ETH Zurich \\
+Dissertation: Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities \\
+Committee:Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
 
-* MSc in Computer Science, Saarland Universitycall_made, Germany
-Dissertation: Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs
-Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel 
+* MSc in Computer Science, Saarland Universitycall_made, Germany \\
+Dissertation:Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs \\
+Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
 * BTech in Electronics and Communication Engineering, National Institute of Technologycall_made, Durgapur
 
@@ -62,6 +62,7 @@ Education
 Recieved Grants
 ======
 * Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
+
 * ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021: “Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology” CHF 93,033 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
  
 
@@ -82,9 +83,9 @@ Thesis (co)-Supervision
   * 2015 Fotini Traka \\ Topic: OSS Licenses and project sustainability
   * 2016 Matteo Frondoni \\ Topic: Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry? \\
          Recieved [Student Prize 2016 from the SEW-EURODRIVE Foundation](https://smi.ethz.ch/news-events/newschannel1/2017/03/konstantinos-trantopolous-awarded-eth-medal.html) and \\ [ETH Medal 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) 
-  * 2016 David Roegiers \\ Topic: Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ?
+  * 2016 David Roegiers \\ Topic: Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ? 
   * 2016 Christoph Hirnschall \\ Topic: Online learning of user preferences with applications for online marketplaces \\
-          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \\ (=> )
+          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \\ (=> Google)
   * 2017 Chun-Hui Kuo \\ Topic: From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs \\ (=> qiio)
   * 2017 Matthias Stenske \\ Topic:  Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources \\ (=> CBRE GWS)
   * 2017 Mikko Leimio \\ Topic: The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider \\ (=> Siemens, now at Kistler Group)
