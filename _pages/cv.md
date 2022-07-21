@@ -70,14 +70,24 @@ Thesis (co)-Supervision
   * [Savindu Herath] (https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich with Georg von Krogh)
 
 * Master Students
-  * International Conference on Information Systems (ICIS 2016- )
-  * Latin American Theoretical INformatics Symposium (LATIN 2018- ) 
-  * International Symposium on Parameterized and Exact Computation (IPEC 2016- ) 
-  * International Joint Conference on Artificial Intelligence (IJCAI 2018- )
-  * European Conference on Artificial Intelligence (ECAI 2018- 
-  * Computational Social Choice (COMSOC 2018- )
-  * Strategic Management Society Conferences (SMS 2020-)
-
+  *  2015 Matthias Auf der Mauer 
+          Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry
+  * 2015 Pascal Mages 
+          IT Outsourcing for Small and Medium Enterprises
+  * 2015 Remo Hug Sharing economy in the market for kid’s goods in Switzerland
+  * 2015 Fotini Traka OSS Licenses and project sustainability
+  * 2016 Matteo Frondoni Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry?
+         Recieved [Student Prize 2016 from the SEW-EURODRIVE Foundation](https://smi.ethz.ch/news-events/newschannel1/2017/03/konstantinos-trantopolous-awarded-eth-medal.html) and [ETH Medal 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) 
+  * 2016 David Roegiers Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ?
+  * 2016 Christoph Hirnschall Online learning of user preferences with applications for online marketplaces 
+          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html)
+  * 2017 Chun-Hui Kuo From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs
+  * 2017 Matthias Stenske Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources
+  * 2017 Mikko Leimio The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider
+  * 2017 Apurva Maduskar When Corporate Agile Meets Open Source: Contrasting Knowledge Integration and Documentation Practices
+          Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html)
+  * 2018 Martin Buttenschoen Data for AI: How well structured data empowers business to benefit from machine learning
+ 
 
 
 
