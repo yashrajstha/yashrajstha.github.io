@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Prof. Dr. Yash Raj Shrestha"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yash Raj Shrestha"
 description              : &description "personal description"
 url                      : https://yashrajstha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
