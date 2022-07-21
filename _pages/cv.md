@@ -16,11 +16,11 @@ redirect_from:
 
 * Doctor of Sciences (Dr. sc. ETH), ETH Z&uuml;rich \
 Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities**\\
-Committee: Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
+Committee: Prof. Georg von Krogh, Prof. Phanish Puranam, Prof. Ce Zhang, Prof. Shiko Ben-Menahem,Prof. Stefano Brusoni (chair)
 
 * MSc in Computer Science, Saarland University, Germany \\
 Dissertation: **Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
-Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
+Committee: Prof. Jiong Guo, Prof. Raimund Seidel
 
 * BTech in Electronics and Communication Engineering, National Institute of Technology, Durgapur
 
@@ -33,7 +33,7 @@ Chair of Strategic Management & Innovation, Department of Management, Technology
 
 * 2014- 2019        Swiss Federal Institute of Technology (ETH), Z&uuml;rich, Switzerland;
 **Research and Teaching Associate**\ 
-Chair of Strategic Management & Innovation, Department of Management, Technology and Economics (MTEC)\
+ Chair of Strategic Management & Innovation, Department of Management, Technology and Economics (MTEC)
 
 * 2012 – 2014       Multimodal Computing and Interaction (MMCI), Saarbr&uuml;cken, Germany\
 **Research and Teaching Associate** 
@@ -50,10 +50,10 @@ Profesional Experience
 Recieved Grants
 ======
 * Swiss National Science Foundation (SNF), 2021\ 
-**Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining"** CHF 569'754\
+**Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining"** CHF 569,754\
 (as CO-PI with G. von Krogh).
 
-* ETH Competence Centre for Rehabilitation Engineering and Scienc(RESC), 2021\ 
+* ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021\ 
 **Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology** CHF 93,033\
 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
 
@@ -108,11 +108,11 @@ improve venture capital decision-making** CHF 12,613.85\
 
 **PhD Students**
 
-  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich*)
+  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich)
 
-  2\. [Estevan Vilar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich*)
+  2\. [Estevan Vilar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich)
 
-  3\. [Savindu Pathirannehelage Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich*)
+  3\. [Savindu Pathirannehelage Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich)
 
 **Master Students @ETH Zurich**
 
@@ -136,7 +136,7 @@ improve venture capital decision-making** CHF 12,613.85\
  
 
 13\. Leopold Franz (2020)\
-      Topic: **Managing Disease Diagnoses with Structured and Unstructured Clinical Data**\\ 
+      Topic: **Managing Disease Diagnoses with Structured and Unstructured Clinical Data**\
 
 
 12\. Martin Buttensch&ouml;n (2018)\
@@ -148,15 +148,15 @@ improve venture capital decision-making** CHF 12,613.85\
 
 
 10\. Chun-Hui Kuo (2017)\
-  Topic: **From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs**\
+  Topic: **From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs**
  
 
 9\. Matthias Stenske (2017) \
-  Topic: **Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources** \
+  Topic: **Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources**
    
 
 8\. Mikko Leimio (2017) \
-  Topic: **The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider** \
+  Topic: **The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider**
  
 7\. Matteo Frondoni (2016)\
    Topic: Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry? \
@@ -167,7 +167,7 @@ improve venture capital decision-making** CHF 12,613.85\
 
 5\. Christoph Hirnschall (2016)\
     Topic: **Online learning of user preferences with applications for online marketplaces** \
-          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \
+          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html)
         
 
 4\. Matthias Auf der Mauer (2015) \

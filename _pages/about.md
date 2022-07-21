@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Yash Raj Shrestha"
+title: "Prof. Yash Raj Shrestha"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
