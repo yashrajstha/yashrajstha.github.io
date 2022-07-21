@@ -117,14 +117,14 @@ Thesis (co)-Supervision
           Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html) \\ 
           (=> ABB)
 
- 12\. 2018 Martin Buttenschoen \\ 
+  12\. 2018 Martin Buttenschoen \\ 
   Topic: Data for AI: How well structured data empowers business to benefit from machine learning
 
   13\. 2020 Leopold Franz \\ 
   Topic: Managing Disease Diagnoses with Structured and Unstructured Clinical Data \\ 
   (=> PhD candidate, ETH Zurich)
 
- 14\. 2021 Anastasios Papageorgiou \\
+  14\. 2021 Anastasios Papageorgiou \\
      Topic: Deep Learning for disease diagnosis \\
       (=> UBS)
 
@@ -134,7 +134,7 @@ Thesis (co)-Supervision
   16\. 2021 Savindu Herath \\ 
   Topic: Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing \\
    (=> PhD candiate, ETH Zurich)
-   
+
   17\. 2022  Lydia Pagani \\
           Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy \\
            (=> Deloitte CH)
