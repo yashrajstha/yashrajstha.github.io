@@ -49,9 +49,18 @@ Profesional Experience
 
 Recieved Grants
 ======
-* Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
+* Swiss National Science Foundation (SNF), 2021\ 
+**Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining"** CHF 569'754\
+(as CO-PI with G. von Krogh).
 
-* ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021: “Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology” CHF 93,033 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
+* ETH Competence Centre for Rehabilitation Engineering and Scienc(RESC), 2021\ 
+**Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology** CHF 93,033\
+(as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
+
+* Innosuisse, Switzerland\ 
+**40752.1 INNO-ICT”: “Artificial Intelligence to 
+improve venture capital decision-making** CHF 12,613.85\
+(as CO-application with G. von Krogh & Raized.AI
  
 
 **Services**
@@ -72,8 +81,12 @@ Recieved Grants
   * The International Journal of Human Resource Management
   * Journal of Experimental & Theoretical Artificial Intelligence
   * Information Processing and Management
+  * Industrial and Corporate Change
 
 * **Ad-hoc Reviewer (Conferences and Proceedings)**
+  * Annals of the New York Academy of Sciences (2020- )
+  * Health Policy and Technology, ad hoc reviewer (2020-)
+  * Journal of Experimental Criminology, ad hoc reviewer (2020-)
   * International Conference on Information Systems (ICIS 2016- )
   * Latin American Theoretical INformatics Symposium (LATIN 2018- ) 
   * International Symposium on Parameterized and Exact Computation (IPEC 2016- ) 
@@ -96,9 +109,9 @@ Recieved Grants
 
   1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich*)
 
-  2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich*)
+  2\. [Estevan Vilar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich*)
 
-  3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich*)
+  3\. [Savindu Pathirannehelage Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich*)
 
 **Master Students @ETH Zurich**
 
