@@ -70,10 +70,10 @@ Thesis (co)-Supervision
   * [Savindu Herath] (https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich with Georg von Krogh)
 
 * Master Students
-  *  2015 Matthias Auf der Mauer 
-          Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry
+  *  2015 Matthias Auf der Mauer \\
+          Topic: Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry
   * 2015 Pascal Mages 
-          IT Outsourcing for Small and Medium Enterprises
+          Topic:IT Outsourcing for Small and Medium Enterprises
   * 2015 Remo Hug Sharing economy in the market for kid’s goods in Switzerland
   * 2015 Fotini Traka OSS Licenses and project sustainability
   * 2016 Matteo Frondoni Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry?
@@ -87,32 +87,15 @@ Thesis (co)-Supervision
   * 2017 Apurva Maduskar When Corporate Agile Meets Open Source: Contrasting Knowledge Integration and Documentation Practices
           Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html)
   * 2018 Martin Buttenschoen Data for AI: How well structured data empowers business to benefit from machine learning
+  * 2020 Leopold Franz 
+  * 2021 Anastasios Papageorgiou 
+  * 2021 SAvindu Herath
+  * 2022  Lydia Pagani 
+          Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy
+  * 2022 Claudio Zihlmann \\
+          Topic: Market access strategy for a new value product in the oral market for biomaterials 
  
 
 
 
 
-
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
