@@ -8,21 +8,26 @@ author_profile: true
 
 
 ====== 
-Invited Talks
+**Invited Talks**
 
 
-5\. Feb 4, 2022 Methods for Macro Research (Topic: AI, ML, and Big Data for Macro Research), CARMA Topic Interest Group
+5\. Feb 4, 2022 \\
+Methods for Macro Research (Topic: AI, ML, and Big Data for Macro Research), CARMA Topic Interest Group
 
-4\. September 15-19, AI for Business, 4th National Workshop on Machine Learning and Data Science, Kathmandu, Nepal
+4\. September 15-19,2021 \\
+AI for Business, 4th National Workshop on Machine Learning and Data Science, Kathmandu, Nepal
 
-3\. March 19, 2021 AI in Strategy Workshop, NYU
+3\. March 19, 2021\\
+ AI in Strategy Workshop, NYU
 
-2\. December 17, 2020 Using AI to Build Theory Organization Design Community
+2\. December 17, 2020 \\
+Using AI to Build Theory Organization Design Community
 
-1\. May 07, 2020 Organization decision-making structures in the age of Artificial Intelligence: A research perspective, Ganpat University Seminar Series
+1\. May 07, 2020\\
+ Organization decision-making structures in the age of Artificial Intelligence: A research perspective, Ganpat University Seminar Series
 
 ====== 
-Conference Presentations
+**Conference Presentations**
 
 10\. Tinguely, P., Shrestha, Y. R. & von Krogh, G. Black Lives Matter! Organizational Resilience in the Face of Social Movements. Academy of Management Annual Meeting (virtual), August, 2021.
 
