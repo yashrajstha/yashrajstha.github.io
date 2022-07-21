@@ -5,10 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications (Management)
+
 ====== 
 
-6. von Krogh, Ben-Menahem & Shrestha (Forthcoming) Artificial Intelligence in Strategizing: Prospects and Challenges, In I. Duhaime, M. Hitt & M. Lyles (Eds.), Strategic Management: State of the Field and Its Future, Cambridge University Press  [link](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
+Publications (Management)
+
+7. Arrieta, J. P., & Shrestha, Y. R. (2022). On the strategic value of equifinal choice. Journal of Organization Design, 1-9. [link] (https://link.springer.com/article/10.1007/s41469-022-00112-y)
+
+6. von Krogh, Ben-Menahem & Shrestha (2021) Artificial Intelligence in Strategizing: Prospects and Challenges, In I. Duhaime, M. Hitt & M. Lyles (Eds.), Strategic Management: State of the Field and Its Future, Cambridge University Press  [link](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
 
 5. Shrestha, Y. R., Krishna, V. and von Krogh, G., (2021) Augmenting Organizational Decision-Making with Deep Learning Algorithms: Principles, Promises, and Challenges. Journal of Business Research, 123, 588- 603 [link](https://www.sciencedirect.com/science/article/pii/S0148296320306512)
 
@@ -21,40 +25,50 @@ Publications (Management)
 1. Shrestha, Y. R., Ben-Menahem, S., & von Krogh, G (2019). Organizational Decision-Making Structures in the Age of Artificial Intelligence. California Management Review. [link](https://drive.google.com/file/d/1KtuZg7c-aC8HnYb1kOpg23bCKiwl1PYn/view)
 
 
+Monographs
 
-Publications (Computer Science)
+2. Shrestha, Y. R. (2019). Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to Research Online Communities (Doctoral dissertation, ETH Zurich).
 
-Computational social choice, Mathematics of voting and decision making, Artificial intelligence, Machine learning, Algorithmic graph theory, Theoretical computer science, Parameterized Algorithms and Complexity
-Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj Shrestha)
+1. Shrestha, Y. R. (2011). Complexity of Disjoint Π-Vertex Deletion for Disconnected Forbidden Subgraphs. (MSc Thesis, Saarland University)
+
+
 ======
 
-Artificial Intelligence & Computational Social Choice
-Leopold Franz, Yash Raj Shrestha, and Bibek Paudel. 2020. A Deep Learning Pipeline for Patient Diagnosis Prediction Using Electronic Health Records. In BioKDD 2020: 19th International Workshop on Data Mining in Bioinformatics, August 24, 2020, San Diego, CA.ACM, New York, NY, USA, original publicationcall_made slidescall_made videocall_made
+Publications (Computer Science)
+Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj Shrestha)
 
-Mario Arduini, Lorenzo Noci, Federico Pirovano, Ce Zhang, Yash Raj Shrestha and Bibek Paudel. Adversarial Learning for Debiasing Knowledge Graph Embeddings. InMLG 2020: 16th International Workshop on Miningand Learning with Graphs - A Workshop at the KDD Conference, August 24,2020, San Diego, CA.ACM, New York, NY, USA, 7 pages. original publicationcall_made videocall_made
 
-Fairness in Algorithmic Decision-​Making: Applications in Multi-​winner Voting, Machine Learning, and Recommender Systems. (with Yongjie Yang), Algorithms, 2019, 12(9), 199 original publicationcall_made
+16. Keidar, D., Zhong, M., Zhang, C., Shrestha, Y. R., & Paudel, B. (2021). Towards Automatic Bias Detection in Knowledge Graphs. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing: Findings (EMNLP 2021). Nov 7--11, 2021
 
-How Hard Is Bribery with Distance Restrictions? (with Yongjie Yang and Jiong Guo), In Proc. of the 22nd European Conference on Artificial Intelligence (ECAI '16), Frontiers of Artificial Intelligence and Applications, vol. 285, pp. 363-​371 original publicationcall_made
+15. Arduini, M., Noci, L., Pirovano, F., Zhang, C., Shrestha, Y. R., & Paudel, B. (2020). Adversarial learning for debiasing knowledge graph embeddings. In MLG 2020: 16th International Workshop on Miningand Learning with Graphs - A Workshop at the KDD Conference, August 24,2020, San Diego, CA.ACM, New York, NY, USA, 7 pages
 
-When Schwartz' Conjecture Holds (with Matthias Mnich and Yongjie Yang), Proc. of the 24th International Joint Conference on Artificial Intelligence (IJCAI '15) pp. 603-​609 original publicationcall_made                                         
+14. Leopold F., Shrestha, Y. R. & Paudel, B. (2020). A Deep Learning Pipeline for Patient Diagnosis Prediction Using Electronic Health Records. In BioKDD 2020: 19th International Workshop on Data Mining in Bioinformatics, August 24, 2020, San Diego, CA.ACM, New York, NY, USA
 
-How Credible is the Prediction of a Party-​Based Election? (with Jiong Guo and Yongjie Yang) In Proc. of the 14th International Conference on Autonomous Agents and Multi Agent Systems (AAMAS '15), pp. 1431-​1439 original publicationcall_made
+13. Shrestha, Y. R., & Yang, Y. (2019). Fairness in Algorithmic Decision-Making: Applications in Multi-Winner Voting, Machine Learning, and Recommender Systems. Algorithms, 12(9), 199.
 
-How Hard is Bribery in Party Based Elections? (Yongjie Yang and Jiong Guo)  In Proc. of the 14th International Conference on Autonomous Agents and Multi Agent Systems (AAMAS '15 ) (extended Abstract), pp. 1725-​1726 original publicationcall_made  
+12. Yang, Y., Shrestha, Y. R., & Guo, J. (2019). On the complexity of bribery with distance restrictions. Theoretical Computer Science, 760, 55-71.
 
-Controlling Two-​stage Voting Rules (with Jiong Guo), Proc. of the 21st European Conference on Artificial Intelligence (ECAI '14), Frontiers of Artificial Intelligence and Applications, vol. 263, pp. 411-​416 original publicationcall_made     
+11.  Yang, Y., Shrestha, Y. R., Li, W., & Guo, J. (2018). On the kernelization of split graph problems. Theoretical Computer Science, 734, 72-82.
 
-Parameterized Algorithms & Complexity
-On the Complexity of Bribery with Distance Restrictions (with Yongjie Yang and Jiong Guo), Theoretical Computer Science, 2019, Volume 760, Pages 55-​71 original publicationcall_made
+10. Guo, J., & Shrestha, Y. R. (2014). Complexity of Disjoint Π-Vertex Deletion for Disconnected Forbidden Subgraphs. Journal of Graph Algorithms and Applications, 18(4), 603–631
 
-On the Kernelization of Split Graph Problems (with Yongjie Yang, Wenjun Li and Jiong Guo), Theoretical Computer Science, 2018, vol. 734 , pp. 72-​82 original publicationcall_made
+9. Yang, Y., Shrestha, Y. R., & Guo, J. (2016). How Hard Is Bribery with Distance Restrictions? In Proceedings of European Conference on Artificial Intelligence, 363-371
 
- Kernelization of Two Path Searching Problems on Split Graphs (with Yongjie Yang, Wenjun Li and Jiong Guo),. Frontiers in Algorithmics , Lecture Notes in Computer Science, 2016, (pp238-​249). original publicationcall_made
+8. Mnich, M., Shrestha, Y. R., & Yang, Y. (2015). When does Schwartz conjecture hold? In Proceedings of the International Joint Conference on Artificial Intelligence, 603-609
 
-Parameterized Complexity of Edge Interdiction Problems (with Jiong Guo), Theoretical Computer Science Journal (to appear), [Preliminary version in: Computing and Combinatorics, Lecture Notes in Computer Science, vol. 8591, 2014, pp. 166-​178  original publicationcall_made]
+7. Guo, J., Shrestha, Y. R., & Yang, Y. (2015). How Credible is the Prediction of a Party-Based Election? In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems, 1431-1439. International Foundation for Autonomous Agents and Multiagent Systems.
 
-Complexity of Disjoint Π-​Vertex Deletion for Disconnected Forbidden Subgraphs (with Jiong Guo), Journal of Graph Algorithms and Applications vol. 18 (2014), pp. 603-​631 original publicationcall_made [Preliminary version in : Algorithms and Computation, Lecture Notes in Computer Science, vol. 8344, 2014, pp. 286-​297 original publicationcall_made]
+6. Yang, Y., Shrestha, Y. R., & Guo, J. (2015). How Hard is Bribery in Party Based Elections?. In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems,1725-1726. International Foundation for Autonomous Agents and Multiagent Systems.
 
-Kernelization and Parameterized Complexity of Star Editing and Union Editing (with Jiong Guo), in: Algorithms and Computation, Lecture Notes in Computer Science, vol. 7676, 2012, pp. 126-​135 original publicationcall_made
+5. Guo, J., Shrestha, Y. R. (2014). Controlling Two-stage Voting Rules, In Proceedings of European Conference on Artificial Intelligence, Frontiers of Artificial Intelligence and Applications, 263, 411-416
+
+4. Yang, Y., Shrestha, Y. R., Li, W., & Guo, J. (2016). Kernelization of two path searching problems on split graphs. In Frontiers in Algorithmics , Lecture Notes in Computer Science, 238-249.
+
+3. Guo, J., & Shrestha, Y. R. (2014) Parameterized Complexity of Edge Interdiction Problems In: Computing and Combinatorics, Lecture Notes in Computer Science, vol. 8591, 166-178
+
+2. Guo, J., & Shrestha, Y. R. (2014). Complexity of Disjoint Π-Vertex Deletion for Disconnected Forbidden Subgraphs. In Algorithms and Computation, Lecture Notes in Computer Science, vol. 8344, 286-297
+
+1.  Guo, J., & Shrestha, Y. R. (2012). Kernelization and Parameterized Complexity of Star Editing and Union Editing. In Algorithms and Computation, Lecture Notes in Computer Science, vol. 7676, 126-135
+
+
 
