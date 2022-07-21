@@ -9,19 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+
 
 ======
+**Education**
 
-* PhD in Data Science and Strategy, ETH Zurich \\
-Dissertation: Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities \\
+* Doctorate in Sciences (Dr. sc. ETH), ETH Zurich \\
+Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities** \\
+
 Committee:Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
 
-* MSc in Computer Science, Saarland Universitycall_made, Germany \\
-Dissertation:Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs \\
+* MSc in Computer Science, Saarland University, Germany \\
+
+Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
+
 Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
-* BTech in Electronics and Communication Engineering, National Institute of Technologycall_made, Durgapur
+* BTech in Electronics and Communication Engineering, National Institute of Technology, Durgapur
 
 
 
