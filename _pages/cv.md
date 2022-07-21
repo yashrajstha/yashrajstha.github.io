@@ -49,15 +49,41 @@ Professional Service
   * European Conference on Artificial Intelligence (ECAI 2018- 
   * Computational Social Choice (COMSOC 2018- )
   * Strategic Management Society Conferences (SMS 2020-)
+
+* Reviewer (Scientific Grants)
+  * Swiss National Science Foundation
+  * National Science Foundation (USA)
+  * Dutch Research Council
   
-Skills
+Recieved Grants
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
+* ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021: “Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology” CHF 93,033 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
+ 
+
+
+Thesis (co)-Supervision
+======
+* PhD Students
+  * [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich with Georg von Krogh)
+  * [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich with Georg von Krogh)
+  * [Savindu Herath] (https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich with Georg von Krogh)
+
+* Master Students
+  * International Conference on Information Systems (ICIS 2016- )
+  * Latin American Theoretical INformatics Symposium (LATIN 2018- ) 
+  * International Symposium on Parameterized and Exact Computation (IPEC 2016- ) 
+  * International Joint Conference on Artificial Intelligence (IJCAI 2018- )
+  * European Conference on Artificial Intelligence (ECAI 2018- 
+  * Computational Social Choice (COMSOC 2018- )
+  * Strategic Management Society Conferences (SMS 2020-)
+
+
+
+
+
+
+
 
 Publications
 ======
