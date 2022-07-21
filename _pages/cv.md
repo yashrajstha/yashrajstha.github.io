@@ -15,11 +15,11 @@ redirect_from:
 
 
 * Doctorate in Sciences (Dr. sc. ETH), ETH Zurich \\
-Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities** 
-Committee:nProf. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
+Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities**\\
+Committee:Prof. Dr. Georg von Krogh, Prof. Dr. Phanish Puranam, Prof. Dr. Ce Zhang, Dr. Shiko Ben-Menahem,Prof. Dr. Stefano Brusoni (chair)
 
 * MSc in Computer Science, Saarland University, Germany \\
-Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** 
+Dissertation:**Complexity of disjoint Pi- vertex deletion for disjoint forbidden subgraphs** \\
 Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
 * BTech in Electronics and Communication Engineering, National Institute of Technology, Durgapur
@@ -79,72 +79,72 @@ Recieved Grants
 
   3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich*)
 
-** Master Students @ETH Zurich**
+**Master Students @ETH Zurich**
 
 
-18\. Claudio Zihlmann (2022) \\
+18\. Claudio Zihlmann (2022) \
       Topic: **Market access strategy for a new value product in the oral market for biomaterials** 
 
 
-17\. Lydia Pagani (2022) \\
-      Topic: **Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy** \\
+17\. Lydia Pagani (2022) \
+      Topic: **Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy**
 
-16\. Savindu Herath (2022) \\ 
-      Topic: **Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing** \\
+16\. Savindu Herath (2022)\
+      Topic: **Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing** 
 
-15\. Tobias Motz (2021) \\
+15\. Tobias Motz (2021)\
       Topic: **Artificial Intelligence and Organizations: Paradigms of action for a successful integration**
 
   
-14\. Anastasios Papageorgiou (2021) \\
-      Topic: **Deep Learning for disease diagnosis** \\
+14\. Anastasios Papageorgiou (2021)\
+      Topic: **Deep Learning for disease diagnosis**
  
 
-13\. Leopold Franz (2020) \\ 
-      Topic: **Managing Disease Diagnoses with Structured and Unstructured Clinical Data** \\ 
+13\. Leopold Franz (2020)\
+      Topic: **Managing Disease Diagnoses with Structured and Unstructured Clinical Data**\\ 
 
 
-12\. Martin Buttensch&ouml;n (2018) \\ 
+12\. Martin Buttensch&ouml;n (2018)\
       Topic: **Data for AI: How well structured data empowers business to benefit from machine learning**
 
-11\. Apurva Maduskar (2017) \\ 
+11\. Apurva Maduskar (2017)\
   Topic: **When Corporate Agile Meets Open Source: Contrasting Knowledge Integration and Documentation Practices** 
-  Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html) \\
+  Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html) 
 
 
-10\. Chun-Hui Kuo (2017)\\ 
-  Topic: **From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs**\\
+10\. Chun-Hui Kuo (2017)\
+  Topic: **From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs**\
  
 
-9\. Matthias Stenske (2017) \\ 
-  Topic: **Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources** \\ 
+9\. Matthias Stenske (2017) \
+  Topic: **Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources** \
    
 
-8\. Mikko Leimio (2017) \\ 
-  Topic: **The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider** \\ 
+8\. Mikko Leimio (2017) \
+  Topic: **The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider** \
  
-7\. Matteo Frondoni (2016)\\
-   Topic: Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry? \\
+7\. Matteo Frondoni (2016)\
+   Topic: Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry? \
          Recieved [Student Prize 2016 from the SEW-EURODRIVE Foundation](https://smi.ethz.ch/news-events/newschannel1/2017/03/konstantinos-trantopolous-awarded-eth-medal.html) and [ETH Medal 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) 
 
-6\. David Roegiers (2016) \\ 
+6\. David Roegiers (2016) \
     Topic: **Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ?** 
 
-5\. Christoph Hirnschall (2016)\\ 
-    Topic: **Online learning of user preferences with applications for online marketplaces** \\
-          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \\ 
+5\. Christoph Hirnschall (2016)\
+    Topic: **Online learning of user preferences with applications for online marketplaces** \
+          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \
         
 
-4\. Matthias Auf der Mauer (2015) \\
+4\. Matthias Auf der Mauer (2015) \
     Topic: **Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry**
 
-3\. Pascal Mages (2015)  \\
+3\. Pascal Mages (2015)  \
     Topic: **IT Outsourcing for Small and Medium Enterprises**
 
-2\. Remo Hug (2015) \\ 
+2\. Remo Hug (2015) \
     Topic: **Sharing economy in the market for kid’s goods in Switzerland**
 
-1\. Fotini Traka (2015)\\ 
+1\. Fotini Traka (2015)\
     Topic: **OSS Licenses and project sustainability**
 
  
