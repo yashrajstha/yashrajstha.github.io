@@ -10,7 +10,7 @@ author_profile: true
 
 **Publications (Management)**
 
-8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) **Bringing artificial intelligence to business management.** *Nature Machine Intelligence* 4, 611–613 [paper](https://doi.org/10.1038/s42256-022-00512-5)
+8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) **Bringing artificial intelligence to business management.** *Nature Machine Intelligence* 4, 611–613 [paper](https://rdcu.be/cR8gm)
 
 7\. Arrieta, J. P., & Shrestha, Y. R. (2022). **On the strategic value of equifinal choice.** *Journal of Organization Design*, 1-9. [paper](https://link.springer.com/article/10.1007/s41469-022-00112-y)
 
