@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 
-
-======
 **Education**
+======
+
 
 * Doctorate in Sciences (Dr. sc. ETH), ETH Zurich \\
 Dissertation: **Bridging Data Science and Organization Science: Leveraging Algorithmic Induction to research Online Communities** \\
@@ -29,9 +29,15 @@ Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
 
 
 
+Recieved Grants
 ======
+* Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
 
+* ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021: “Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology” CHF 93,033 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
+ 
 
+**Services**
+======
 
 * **Ad-hoc Reviewer (Journals)**
   * Strategic Management Journal
@@ -63,24 +69,36 @@ Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel
   * National Science Foundation (USA)
   * Dutch Research Council
   
-Recieved Grants
+
+
 ======
-* Swiss National Science Foundation (SNF), 2021: "Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining" CHF 569'754 (as CO-PI with G. von Krogh).
+**Thesis (co)-Supervision**
 
-* ETH Competence Centre for Rehabilitation Engineering and Science (RESC), 2021: “Changing Behaviours”: “Hackster - Patient-led innovation in online communities: An exploratory study of the design principles and the diffusion of affordable rehabilitation technology” CHF 93,033 (as CO-applicant with G. von Krogh, N. Geilinger, M. Meboldt & C. Stadtfeld)
- 
+**PhD Students**
 
-
-Thesis (co)-Supervision
-======
-* **PhD Students**
   1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 *@ETH Zurich*)\\
 
   2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing *@ETH Zurich*)\\
 
   3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  *@ETH Zurich*)\\
 
-* Master Students *@ETH Zurich*
+** Master Students @ETH Zurich**
+
+
+  18\. Claudio Zihlmann (2022) \\
+          Topic: **Market access strategy for a new value product in the oral market for biomaterials ** 
+ 
+  17\. Lydia Pagani (2022) \\
+          Topic: **Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy** \\
+
+  16\. Savindu Herath (2022) \\ 
+  Topic: **Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing** \\
+
+15\. Tobias Motz (2021) \\
+    Topic: **Artificial Intelligence and Organizations: Paradigms of action for a successful integration**
+
+  
+
 
   1\.  2015 Matthias Auf der Mauer \\
           Topic: Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry
@@ -137,18 +155,12 @@ Thesis (co)-Supervision
   15\. 2021 Tobias Motz \\
     Topic: Artificial Intelligence and Organizations: Paradigms of action for a successful integration
 
-  16\. 2021 Savindu Herath \\ 
-  Topic: Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing \\
-   (=> PhD candiate, ETH Zurich)
+  
 
-  17\. 2022  Lydia Pagani \\
-          Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy \\
-           (=> Deloitte CH)
 
-  18\. 2022 Claudio Zihlmann \\
-          Topic: Market access strategy for a new value product in the oral market for biomaterials \\
-          (=> Geistlich Pharma AG)
- 
+           
+
+
 
 
 
