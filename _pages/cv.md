@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
+
 ======
 
 * PhD in Data Science and Strategy, ETH Zurich
@@ -23,9 +24,12 @@ Committee: Prof. Dr. Jiong Guo, Prof. Dr. Raimund Seidel 
 * BTech in Electronics and Communication Engineering, National Institute of Technologycall_made, Durgapur
 
 
-Professional Service
+Education
 ======
-* Ad-hoc Reviewer (Journals)
+
+
+
+* **Ad-hoc Reviewer (Journals)**
   * Strategic Management Journal
   * Information Systems Research
   * Organization Science
@@ -41,7 +45,7 @@ Professional Service
   * Journal of Experimental & Theoretical Artificial Intelligence
   * Information Processing and Management
 
-* Ad-hoc Reviewer (Conferences and Proceedings)
+* **Ad-hoc Reviewer (Conferences and Proceedings)**
   * International Conference on Information Systems (ICIS 2016- )
   * Latin American Theoretical INformatics Symposium (LATIN 2018- ) 
   * International Symposium on Parameterized and Exact Computation (IPEC 2016- ) 
@@ -50,7 +54,7 @@ Professional Service
   * Computational Social Choice (COMSOC 2018- )
   * Strategic Management Society Conferences (SMS 2020-)
 
-* Reviewer (Scientific Grants)
+* **Reviewer (Scientific Grants)**
   * Swiss National Science Foundation
   * National Science Foundation (USA)
   * Dutch Research Council
@@ -65,35 +69,35 @@ Recieved Grants
 Thesis (co)-Supervision
 ======
 * PhD Students
-  * [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 @ETH Zurich with Georg von Krogh)
-  * [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing @ETH Zurich with Georg von Krogh)
-  * [Savindu Herath] (https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  @ETH Zurich with Georg von Krogh)
+  * [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 *@ETH Zurich* with Georg von Krogh)
+  * [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing *@ETH Zurich* with Georg von Krogh)
+  * [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  *@ETH Zurich* with Georg von Krogh)
 
-* Master Students
+* Master Students *@ETH Zurich*
   *  2015 Matthias Auf der Mauer \\
           Topic: Business Model Analysis of Intuitive Surgical Inc.and Strategic Implications for Companies in the Robotic Assisted Ablation Catheter Industry
-  * 2015 Pascal Mages 
-          Topic:IT Outsourcing for Small and Medium Enterprises
-  * 2015 Remo Hug Sharing economy in the market for kid’s goods in Switzerland
-  * 2015 Fotini Traka OSS Licenses and project sustainability
-  * 2016 Matteo Frondoni Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry?
-         Recieved [Student Prize 2016 from the SEW-EURODRIVE Foundation](https://smi.ethz.ch/news-events/newschannel1/2017/03/konstantinos-trantopolous-awarded-eth-medal.html) and [ETH Medal 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) 
-  * 2016 David Roegiers Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ?
-  * 2016 Christoph Hirnschall Online learning of user preferences with applications for online marketplaces 
-          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html)
-  * 2017 Chun-Hui Kuo From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs
-  * 2017 Matthias Stenske Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources
-  * 2017 Mikko Leimio The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider
-  * 2017 Apurva Maduskar When Corporate Agile Meets Open Source: Contrasting Knowledge Integration and Documentation Practices
-          Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html)
-  * 2018 Martin Buttenschoen Data for AI: How well structured data empowers business to benefit from machine learning
-  * 2020 Leopold Franz 
-  * 2021 Anastasios Papageorgiou 
-  * 2021 SAvindu Herath
-  * 2022  Lydia Pagani 
-          Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy
+  * 2015 Pascal Mages  \\
+          Topic: IT Outsourcing for Small and Medium Enterprises
+  * 2015 Remo Hug \\ Topic: Sharing economy in the market for kid’s goods in Switzerland
+  * 2015 Fotini Traka \\ Topic: OSS Licenses and project sustainability
+  * 2016 Matteo Frondoni \\ Topic: Competing with giants: Artificial Intelligence as a threat or an opportunity for the swiss TIME industry? \\
+         Recieved [Student Prize 2016 from the SEW-EURODRIVE Foundation](https://smi.ethz.ch/news-events/newschannel1/2017/03/konstantinos-trantopolous-awarded-eth-medal.html) and \\ [ETH Medal 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) 
+  * 2016 David Roegiers \\ Topic: Start-up acquisitions in the open source software space: What is the effect oncommunity dynamics ?
+  * 2016 Christoph Hirnschall \\ Topic: Online learning of user preferences with applications for online marketplaces \\
+          Recieved [Willie Studer Prize 2017](https://smi.ethz.ch/news-events/newschannel1/2017/11/awarded1.html) \\ (=> )
+  * 2017 Chun-Hui Kuo \\ Topic: From startup to scaleup: Two-phase searching for human resource acquisition inearly-stage spin-offs \\ (=> qiio)
+  * 2017 Matthias Stenske \\ Topic:  Open Source Strategy for Swiss Telecommunication infrastructure industry:Impact on strategic resources \\ (=> CBRE GWS)
+  * 2017 Mikko Leimio \\ Topic: The Impact of an Open Source Hardware Strategy for 5G Technology to the Telecom Industry and a major Swiss Telecommunications Provider \\ (=> Siemens, now at Kistler Group)
+  * 2017 Apurva Maduskar \\ Topic: When Corporate Agile Meets Open Source: Contrasting Knowledge Integration and Documentation Practices \\
+          Recieved [MAS Excellence Award 2018](https://smi.ethz.ch/news-events/newschannel1/2018/10/awarded2.html) \\ (=> ABB)
+  * 2018 Martin Buttenschoen \\ Topic: Data for AI: How well structured data empowers business to benefit from machine learning
+  * 2020 Leopold Franz \\ Topic: Managing Disease Diagnoses with Structured and Unstructured Clinical Data \\ (=> PhD candidate, ETH Zurich)
+  * 2021 Anastasios Papageorgiou \\ Topic: Deep Learning for disease diagnosis \\ (=> UBS)
+  * 2021 Savindu Herath \\ Topic: Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing \\ (=> PhD candiate, ETH Zurich)
+  * 2022  Lydia Pagani \\
+          Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy \\ (=> Deloitte CH)
   * 2022 Claudio Zihlmann \\
-          Topic: Market access strategy for a new value product in the oral market for biomaterials 
+          Topic: Market access strategy for a new value product in the oral market for biomaterials \\ (=> Geistlich Pharma AG)
  
 
 
