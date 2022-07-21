@@ -123,7 +123,7 @@ improve venture capital decision-making** CHF 12,613.85\
 17\. Lydia Pagani (2022) \
       Topic: **Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy**
 
-16\. Savindu Herath (2022)\
+16\. Savindu Herath (2021)\
       Topic: **Leaveraging data-driven decision-making in co-creation business models to improve firm performance: Evidence from online fashion retailing** 
 
 15\. Tobias Motz (2021)\

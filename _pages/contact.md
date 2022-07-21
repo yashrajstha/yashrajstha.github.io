@@ -5,9 +5,9 @@ permalink: /contact/
 author_profile: true
 ---
 
-Office Address
+
 ====== 
-Address:
+
 Yash Raj Shrestha \\
 Université de Lausanne\\
 Faculty of Business and Economics (HEC Lausanne)\\
