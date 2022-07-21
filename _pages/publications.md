@@ -10,9 +10,13 @@ author_profile: true
 
 Publications (Management)
 
-7\. Arrieta, J. P., & Shrestha, Y. R. (2022). On the strategic value of equifinal choice. Journal of Organization Design, 1-9. [link] (https://link.springer.com/article/10.1007/s41469-022-00112-y)
+8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) Bringing artificial intelligence to business management. Nat Mach Intell 4, 611–613 [link](https://doi.org/10.1038/s42256-022-00512-5
 
-6\. von Krogh, Ben-Menahem & Shrestha (2021) Artificial Intelligence in Strategizing: Prospects and Challenges, In I. Duhaime, M. Hitt & M. Lyles (Eds.), Strategic Management: State of the Field and Its Future, Cambridge University Press  [link](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
+)
+
+7\. Arrieta, J. P., & Shrestha, Y. R. (2022). On the strategic value of equifinal choice. Journal of Organization Design, 1-9. [link](https://link.springer.com/article/10.1007/s41469-022-00112-y)
+
+6\. von Krogh, G., Ben-Menahem, S. & Shrestha, Y. R. (2021) Artificial Intelligence in Strategizing: Prospects and Challenges, In I. Duhaime, M. Hitt & M. Lyles (Eds.), Strategic Management: State of the Field and Its Future, Cambridge University Press  [link](https://www.researchgate.net/publication/349210794_Artificial_Intelligence_in_Strategizing_Prospects_and_Challenges)
 
 5\. Shrestha, Y. R., Krishna, V. and von Krogh, G., (2021) Augmenting Organizational Decision-Making with Deep Learning Algorithms: Principles, Promises, and Challenges. Journal of Business Research, 123, 588- 603 [link](https://www.sciencedirect.com/science/article/pii/S0148296320306512)
 
