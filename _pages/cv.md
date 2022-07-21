@@ -69,10 +69,12 @@ Recieved Grants
 
 Thesis (co)-Supervision
 ======
-* PhD Students
-  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 *@ETH Zurich*)
-  2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing *@ETH Zurich*)
-  3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  *@ETH Zurich*)
+* **PhD Students**
+  1\. [Vaibhav Krishna](https://smi.ethz.ch/group-people/phds/vaibhav.html) (2018 - 2022 *@ETH Zurich*)\\
+
+  2\. [Estevan Villar](https://smi.ethz.ch/group-people/phds/estevan.html) (2020 - ongoing *@ETH Zurich*)\\
+
+  3\. [Savindu Herath](https://smi.ethz.ch/group-people/phds/savindu.html) (2021 - ongoing  *@ETH Zurich*)\\
 
 * Master Students *@ETH Zurich*
 
