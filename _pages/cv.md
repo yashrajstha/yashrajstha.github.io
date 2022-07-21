@@ -113,6 +113,7 @@ Thesis (co)-Supervision
  14\. 2021 Anastasios Papageorgiou \\
      Topic: Deep Learning for disease diagnosis \\
       (=> UBS)
+
   15\. 2021 Tobias Motz \\
     Topic: Artificial Intelligence and Organizations: Paradigms of action for a successful integration
   16\. 2021 Savindu Herath \\ 
@@ -121,6 +122,7 @@ Thesis (co)-Supervision
   17\. 2022  Lydia Pagani \\
           Topic: Stylistic production: How the stylistic choices of the occupational community of the Swiss independent watchmakers influence their company’s strategy \\
            (=> Deloitte CH)
+
   18\. 2022 Claudio Zihlmann \\
           Topic: Market access strategy for a new value product in the oral market for biomaterials \\
           (=> Geistlich Pharma AG)
