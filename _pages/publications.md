@@ -27,7 +27,7 @@ author_profile: true
 1\. Shrestha, Y. R., Ben-Menahem, S., & von Krogh, G (2019). **Organizational Decision-Making Structures in the Age of Artificial Intelligence.** *California Management Review.* [paper](https://drive.google.com/file/d/1KtuZg7c-aC8HnYb1kOpg23bCKiwl1PYn/view)
 
 
-======
+
 
 **Monographs**
 
@@ -36,7 +36,6 @@ author_profile: true
 1\. Shrestha, Y. R. (2011). Complexity of Disjoint Π-Vertex Deletion for Disconnected Forbidden Subgraphs. (MSc Thesis, Saarland University)
 
 
-======
 
 **Computer Science**
 
