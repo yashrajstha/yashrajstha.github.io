@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 
-====== 
 
-**Publications (Management)**
+
+**Management**
 
 8\. Feuerriegel, S., Shrestha, Y.R., von Krogh, G., & Zhang, C. (2022) **Bringing artificial intelligence to business management.** *Nature Machine Intelligence* 4, 611–613 [paper](https://rdcu.be/cR8gm)
 
@@ -38,7 +38,7 @@ author_profile: true
 
 ======
 
-**Publications (Computer Science)**
+**Computer Science**
 
 Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj Shrestha)
 
@@ -56,7 +56,6 @@ Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj S
 11\.  Yang, Y., Shrestha, Y. R., Li, W., & Guo, J. (2018). **On the kernelization of split graph problems.** Theoretical Computer Science, 734, 72-82. [paper](https://www.sciencedirect.com/science/article/pii/S0304397517306850)
 
 
-
 10\. Yang, Y., Shrestha, Y. R., & Guo, J. (2016). **How Hard Is Bribery with Distance Restrictions?** In Proceedings of European Conference on Artificial Intelligence, 363-371 [paper](https://ebooks.iospress.nl/publication/44778)
 
 
@@ -69,8 +68,6 @@ Erdös Number: 4 (Erdös > Noga Alon > Rudolf Fleischer > Jiong Guo > Yash Raj S
 6\. Yang, Y., Shrestha, Y. R., & Guo, J. (2015). **How Hard is Bribery in Party Based Elections?.** In Proceedings of the International Conference on Autonomous Agents and Multiagent Systems,1725-1726. International Foundation for Autonomous Agents and Multiagent Systems. [paper](https://dl.acm.org/doi/10.5555/2772879.2773405)
 
 5\. Guo, J., & Shrestha, Y. R. (2014). **Complexity of Disjoint Π-Vertex Deletion for Disconnected Forbidden Subgraphs.** Journal of Graph Algorithms and Applications, 18(4), 603–631 [paper](https://jgaa.info/getPaper?id=339)
-
-
 
 
 4\. Guo, J., Shrestha, Y. R. (2014). **Controlling Two-stage Voting Rules**, In Proceedings of European Conference on Artificial Intelligence, Frontiers of Artificial Intelligence and Applications, 263, 411-416 [paper](https://ebooks.iospress.nl/publication/36975)
