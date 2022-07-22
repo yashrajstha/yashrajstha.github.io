@@ -11,7 +11,7 @@ redirect_from:
 
 
 **Education**
-======
+
 
 
 * Doctor of Sciences (Dr. sc. ETH), ETH Z&uuml;rich \
@@ -26,7 +26,7 @@ Committee: Prof. Jiong Guo, Prof. Raimund Seidel
 
 
 Academic Experience
-======
+
 * 2019 - 2022       Swiss Federal Institute of Technology (ETH), Z&uuml;rich, Switzerland \
 **Senior Lecturer (Oberassistent)**\
 Chair of Strategic Management & Innovation, Department of Management, Technology and Economics (MTEC)
@@ -40,7 +40,7 @@ Chair of Strategic Management & Innovation, Department of Management, Technology
 
 
 Profesional Experience
-======
+
 * 2020 - present    [Strategy and Artificial Intelligence Lab](https://sailab.ethz.ch/), Z&uuml;rich, Switzerland \
 **Assistant Director**
 
@@ -48,7 +48,7 @@ Profesional Experience
 **Software Engineer**
 
 Recieved Grants
-======
+
 * Swiss National Science Foundation (SNF), 2021\ 
 **Sustaining Knowledge Creation in Online Communities: Enabling, Creating, and Maintaining"** CHF 569,754\
 (as CO-PI with G. von Krogh).
@@ -64,7 +64,7 @@ improve venture capital decision-making** CHF 12,613.85\
  
 
 **Services**
-======
+
 
 * **Ad-hoc Reviewer (Journals)**
   * Strategic Management Journal
@@ -99,11 +99,8 @@ improve venture capital decision-making** CHF 12,613.85\
   * Swiss National Science Foundation
   * National Science Foundation (USA)
   * Dutch Research Council
+
   
-
-
-======
-
 **Thesis (co)-Supervision**
 
 **PhD Students**

@@ -6,7 +6,10 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+
+
+
+
 
 
 I study algorithms (esp. algorithms for NP-hard problems) and organisations (esp. new forms of organisations such as online communities). I am especially interested in exploring and understanding how computer science and organization science can learn from each other in terms of concepts, methods and theories. 

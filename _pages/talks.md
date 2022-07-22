@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-====== 
+
 **Invited Talks**
 
 5\. Methods for Macro Research (Topic: AI, ML, and Big Data for Macro Research), CARMA Topic Interest Group, Feb 4, 2022 
@@ -20,7 +20,10 @@ author_profile: true
 
 1\. Organization decision-making structures in the age of Artificial Intelligence: A research perspective, Ganpat University Seminar Series, May 07, 2020
 
-====== 
+
+
+
+
 
 **Conference Presentations**
 
